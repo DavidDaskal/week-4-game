@@ -1,1 +1,1 @@
-<?php include_once("hangm.html"); ?>
+<?php include_once("index.html"); ?>
